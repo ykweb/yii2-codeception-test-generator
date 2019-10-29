@@ -9,6 +9,7 @@
             "name": "Maxim Izyumsky",
             "email": "ximdom@mail.ru"
         }
+
     ],
     "require": {
         "yiisoft/yii2": "~2.0.0"
