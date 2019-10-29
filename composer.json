@@ -1,0 +1,21 @@
+{
+    "name": "ykweb/yii2-codeception-test-generator",
+    "description": "Creates tests and fixtures for your models",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim Izyumsky",
+            "email": "ximdom@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ykweb\\ctg\\": ""
+        }
+    }
+}
